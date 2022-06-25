@@ -1,0 +1,19 @@
+html {
+    background-color: hsla(184, 100%, 50%, 0.384);
+}
+
+.chef,
+.tzatziki{
+    width: 750px;
+    height: auto;
+}
+
+.kafta, 
+.hummus {
+    width: auto;
+    height: 750px;
+}
+
+.table {
+    font-size: larger;
+}
