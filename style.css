@@ -1,5 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
-    background-color: hsla(184, 100%, 50%, 0.384);
+    background-color: rgb(178, 231, 232)
 }
 
 .chef,
@@ -16,4 +20,18 @@ html {
 
 .table {
     font-size: larger;
+    margin-top: 20px;;
+}
+
+.button:hover,
+.link:hover {
+    background-color: rgb(242,208,150);
+    margin: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid rgb(48,77,99);
+
+
 }
